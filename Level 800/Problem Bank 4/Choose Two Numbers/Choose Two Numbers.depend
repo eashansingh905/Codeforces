@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589505592 source:c:\users\ruhis\desktop\codeforces\choose two numbers\main.cpp
+	<iostream>
+	<set>
+
