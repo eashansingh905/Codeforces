@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589171443 source:c:\users\ruhis\desktop\codeforces\frog jumping\frogjump\main.cpp
+	<iostream>
+	<math.h>
+
