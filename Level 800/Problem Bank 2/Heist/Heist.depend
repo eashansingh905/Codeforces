@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589510569 source:c:\users\ruhis\desktop\codeforces\heist\main.cpp
+	<iostream>
+	<algorithm>
+
