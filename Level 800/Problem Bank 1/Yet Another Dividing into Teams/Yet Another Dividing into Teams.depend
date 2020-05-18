@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589496942 source:c:\users\ruhis\desktop\codeforces\yet another dividing into teams\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+
