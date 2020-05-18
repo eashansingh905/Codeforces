@@ -6,7 +6,9 @@ difficulty level. Since the folders can be quite big, I reccomend you press Cntr
 
 These are my solutions to the problems and by no means are the "best" or only way to solve them. A lot of my programs have evolved to be
 more efficient over time, so I do not expect all programs to be perfect. These programs were put up soley for those who wish to see a 
-different approach to a problem or for those who need help getting started with developing their own solution. 
+different approach to a problem or for those who need help getting started with developing their own solution.
+
+I highly reccomend improving upon my solutions and trying to make them more simple. 
 
 *NOTE: I am currently focusing on Difficulty Level 800 Problems
 
