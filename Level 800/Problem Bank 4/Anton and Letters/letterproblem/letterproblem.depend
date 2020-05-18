@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588879425 source:c:\users\ruhis\desktop\codeforces\anton and letters\letterproblem\main.cpp
+	<iostream>
+	<set>
+	<math.h>
+
